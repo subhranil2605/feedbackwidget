@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.tsbuildinfo
+.vite/
+
+# Env and secrets
+.env
+.env.*
+!.env.example
+
+# Local Azure Storage emulator data
+__azurite_db_*.json
+__blobstorage__/
+__queuestorage__/
+azurite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test output
+coverage/
+playwright-report/
+test-results/
+
+# Agent caches
+docs/.agent-cache/
+.claude/settings.local.json
+
+# OS and editors
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json

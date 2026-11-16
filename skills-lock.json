@@ -1,0 +1,103 @@
+{
+  "version": 2,
+  "skills": {
+    "architect": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/architect/SKILL.md",
+      "computedHash": "1daa4e312fd487288aad638031e3a7ca9508adfa15f5cb38f38de2914e4f04fb"
+    },
+    "audit": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/audit/SKILL.md",
+      "computedHash": "2547dd1bb22e60048398153aceeb43f7fce3d8251c2d9627982c5cc4d887bb6a"
+    },
+    "azure-blob-storage": {
+      "source": "MicrosoftDocs/Agent-Skills",
+      "commit": "9b16b5c7c7716949c83fc4bbdc448e0ada7f93a3",
+      "sourceType": "github",
+      "skillPath": "skills/azure-blob-storage/SKILL.md",
+      "computedHash": "f8800b864edb5865ca9b3991ee31850c33c1267a17cf4395c2a9cf2b44558694"
+    },
+    "azure-container-apps": {
+      "source": "MicrosoftDocs/Agent-Skills",
+      "commit": "9b16b5c7c7716949c83fc4bbdc448e0ada7f93a3",
+      "sourceType": "github",
+      "skillPath": "skills/azure-container-apps/SKILL.md",
+      "computedHash": "49679c332f55f69aa3d982594393a72f8266ae3677e9239c667eaf1d96317a12"
+    },
+    "check": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/check/SKILL.md",
+      "computedHash": "1ae945920ec8869c36e58bb73e4c44da8f5bdc7bc5b9dec6d035215f4ccda3d3"
+    },
+    "debug": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/debug/SKILL.md",
+      "computedHash": "5a2c9cbcdec4647974882c46ab9d9efecc6d8ea4e3f32393632be8c1290ca904"
+    },
+    "develop": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/develop/SKILL.md",
+      "computedHash": "3bf42d7f47d79a6a4c1fd9faab0a16d37e0b4e616d00de4f611db61063d40cd6"
+    },
+    "document": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/document/SKILL.md",
+      "computedHash": "2d4ab42a4ffe7cc64c340fefdbcaa2ce2a84110d9885c0c99b70a696024710d0"
+    },
+    "entra-app-registration": {
+      "source": "microsoft/azure-skills",
+      "commit": "81dd499c31fb26dc002c0829796ddaba5a7e5dbc",
+      "sourceType": "github",
+      "skillPath": "skills/entra-app-registration/SKILL.md",
+      "computedHash": "275936344b67fe14a0c4ec6977a1c5dc45d145572280017dd328a32f01776c96"
+    },
+    "scope": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/scope/SKILL.md",
+      "computedHash": "384dbf12c45824c6a4f676b954ce2fd9b9746fa714f781a25c567ef32400298e"
+    },
+    "sync": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/sync/SKILL.md",
+      "computedHash": "5a88ad828e9845a79162c7b7c05222ac530dd1ca862a4a4e16092a40bdb4f59c"
+    },
+    "test": {
+      "source": "jsmastery-pro/skills",
+      "commit": "43b69e44c9ca905fe3a3418ccdf4102255e20d40",
+      "sourceType": "github",
+      "skillPath": "skills/test/SKILL.md",
+      "computedHash": "45c9c47797331cac473fc8d03ad4d1098ddba1f00fb81c43af9379378b2c75c1"
+    },
+    "tsdown": {
+      "source": "rolldown/tsdown",
+      "commit": "e2e174deff987cf3e0d48eac0ef8b59f68f736c0",
+      "sourceType": "github",
+      "skillPath": "skills/tsdown/SKILL.md",
+      "computedHash": "3b45a186097cf2bb9fa4ea6b4ae7dbc62951f210fdc0f977f295e54e428de7c9"
+    },
+    "vite": {
+      "source": "antfu/skills",
+      "commit": "4a6bb39e7b45e26402eb215393c51ccf5df1ca4c",
+      "sourceType": "github",
+      "skillPath": "skills/vite/SKILL.md",
+      "computedHash": "db9eea82d8bf6ce0f60a4a1d94a626c718df7d97160b5f1d5b150647e0c401b3"
+    }
+  }
+}
